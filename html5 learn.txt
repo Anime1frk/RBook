@@ -1,0 +1,8 @@
+
+Sub Topics	Learning Contents
+HTML 5 Scalable Vector Graphics	http://www.w3schools.com/html/html5_svg.asp
+HTML 5 Drag Drop	http://www.w3schools.com/html/html5_draganddrop.asp
+HTML 5 Geolocation	http://www.w3schools.com/html/html5_geolocation.asp
+HTML 5 Web Storage 	http://www.w3schools.com/html/html5_webstorage.asp
+HTML 5 Semantic and Structural elements	http://www.w3schools.com/html/html5_semantic_elements.asp
+HTML 5 New Elements	http://www.w3schools.com/html/html5_new_elements.asp
